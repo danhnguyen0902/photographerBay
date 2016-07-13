@@ -1,0 +1,12 @@
+bin
+include
+lib
+.Python
+db.sqlite3
+static/*
+static/static-only/*
+*.pyc
+*.swp
+__init__.py
+migrations/
+.DS_Store
